@@ -1,0 +1,6 @@
+{
+  "Name": "ID Card Automation",
+  "ProjectType": "Process",
+  "Description": "Automation on Id card creation for new employees",
+  "MainFile": "Main.xaml"
+}
